@@ -1,29 +1,45 @@
-# Roger Melo - HBr – Campinas
+# 🌟 Roger Melo - HBr – Campinas 🚀
 
-Bem-vindo ao meu repositório!
+Bem-vindo ao meu repositório! Aqui você encontrará todos os projetos incríveis que desenvolvi no curso **EmbarcaTech 2025**. Vamos explorar juntos! 😃
 
-## Objetivo
+---
 
-Este repositório contém projetos desenvolvidos durante o curso **EmbarcaTech 2025**. 
+## 🎯 Objetivo
 
-## Projetos
+Este repositório contém projetos desenvolvidos durante o curso **EmbarcaTech 2025**. Aqui, compartilho código-fonte, documentação e aprendizados adquiridos ao longo dessa jornada tecnológica. 💡💻
 
-- [Projeto 1 - smart_strip](projetos/smart_strip)
+---
 
-## Meu Setup
+## 📂 Projetos
+
+🔹 [Projeto 1 - smart_strip](projetos/smart_strip) ⚡
+
+---
+
+## 🛠️ Meu Setup
 
 ![Foto do Setup](projetos/smart_strip/images/bitdoglab.png)
 
-## Diário de Bordo
+> **Placa da BitDogLab**, utilizada para a realização dos projetos. 🔌✨
 
-### Semana 1
-- Introdução ao curso e configuração do ambiente de desenvolvimento.
+---
 
-### Semana 2
-- Primeiros projetos com hardware e software embarcado.
+## 📖 Diário de Bordo
 
-### Semana 3
-- Desenvolvimento de aplicações com integração de sensores e atuadores.
+### 📅 Primeira Etapa
+📌 **Resumo**: Na primeira etapa do programa **EmbarcaTech**, fomos desafiados a desenvolver um projeto inovador! Apenas os melhores seriam selecionados para a próxima fase. A criatividade e a tecnologia andam juntas nesse desafio! 🚀🤖
 
-*(Diário de Bordo atualizado semanalmente.)*
+🔹 **Aprendizados**:
+- Configuração do ambiente de desenvolvimento 🖥️
+- Primeiros passos com hardware embarcado 🔩
+- Desafios e soluções na prototipação 🔧
+
+*(Diário de Bordo atualizado conforme o progresso! 📌)*
+
+---
+
+📬 _Fique à vontade para explorar, sugerir melhorias e contribuir! Vamos aprender juntos! 💙_
+
+
+
 
