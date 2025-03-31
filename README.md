@@ -1,52 +1,29 @@
-# 📌 **Descrição do Funcionamento**
+# Roger Melo - HBr – Campinas
 
-Este sistema foi projetado para **controlar a passagem de pedestres** em um local onde também operam **empilhadeiras** e **pontes rolantes**, utilizando **LEDs** e um **display OLED** para fornecer informações visuais.
+Bem-vindo ao meu repositório!
 
-🎯 **Objetivo Principal:** Garantir que a passagem de pedestres seja controlada enquanto a empilhadeira está operando, evitando interrupções frequentes no trabalho dos operadores.
+## Objetivo
 
----
+Este repositório contém projetos desenvolvidos durante o curso **EmbarcaTech 2025**. 
 
-## 🚦 **Indicações Visuais**
+## Projetos
 
-O sistema utiliza três **LEDs** para sinalizar o status da passagem:
+- [Projeto 1 - smart_strip](projetos/smart_strip)
 
-- 🔴 **LED Vermelho** → Passagem **não autorizada** 🚫
-- 🟢 **LED Verde** → Passagem **liberada** ✅
-- 🔵 **LED Azul** → Empilhadeira em operação, passagem **bloqueada** ⚠️
+## Meu Setup
 
-📺 **Display OLED (128x64 px)** → Exibe mensagens e um **contador de tempo**, facilitando a visualização do estado atual do sistema.
+![Foto do Setup](projetos/smart_strip/images/bitdoglab.png)
 
----
+## Diário de Bordo
 
-## 🎛 **Funcionamento do Sistema**
+### Semana 1
+- Introdução ao curso e configuração do ambiente de desenvolvimento.
 
-O controle é feito por **dois botões**:
+### Semana 2
+- Primeiros projetos com hardware e software embarcado.
 
-🔘 **Botão A (Pedestres)**
-- Quando pressionado, indica a presença de pedestres.
-- Ativa uma **contagem regressiva de 5 segundos** ⏳.
-- Durante a contagem, o **LED Vermelho** 🔴 acende, bloqueando a passagem.
+### Semana 3
+- Desenvolvimento de aplicações com integração de sensores e atuadores.
 
-🔘 **Botão B (Empilhadeira)**
-- Indica que a empilhadeira está em operação 🚜.
-- O sistema exibe **"AGUARDE A EMPILHADEIRA"** no display.
-- O **LED Azul** 🔵 acende, bloqueando a passagem dos pedestres **até o fim da operação**.
-
-🟢 Quando **não há pedestres**, o **LED Verde** acende e o display exibe **"SEM PEDESTRES"**, permitindo a passagem livre.
-
----
-
-## ⚖ **Hierarquia de Prioridades**
-
-1️⃣ **Empilhadeira (Botão B) tem prioridade máxima** → Bloqueia qualquer outra interação. Os pedestres devem aguardar até a operação ser concluída.
-
-2️⃣ **Pedestres (Botão A) têm prioridade secundária** → O fluxo é gerenciado por uma contagem regressiva de **5 segundos** antes da liberação da passagem.
-
-✅ **Se não houver pedestres ou empilhadeiras em operação, a passagem é liberada imediatamente!**
-
----
-
-🚀 **Este sistema melhora a segurança e eficiência no ambiente de trabalho, garantindo um fluxo organizado entre pedestres e veículos industriais!**
-
-
+*(Diário de Bordo atualizado semanalmente.)*
 
