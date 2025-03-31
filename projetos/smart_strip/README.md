@@ -41,10 +41,10 @@ O projeto visa criar um sistema simples de controle de passagem para pedestres e
    - Pressione os botões para solicitar a passagem de pedestres ou empilhadeiras, e observe os LEDs e a tela OLED exibindo o estado atual.
 
 ## 🖼️ Imagens e Vídeos
-![Foto do Setup](projetos/smart_strip/images/bitdoglab.png)
+![Foto do Setup](images/bitdoglab.png)
 ![Pinagem](images/pinagem.png)
 ![Projeto em Funcionamento](images/sem_pedestres.png)
-![Assista ao vídeo explicativo do projeto](https://www.youtube.com/watch?v=0WUDzSgn6jc&ab_channel=RogerMelo)
+[Assista ao vídeo explicativo do projeto](https://www.youtube.com/watch?v=0WUDzSgn6jc&ab_channel=RogerMelo)
 
 
 ## 📈 Resultados Esperados ou Observados
