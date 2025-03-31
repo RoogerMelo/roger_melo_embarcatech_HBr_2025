@@ -44,7 +44,9 @@ O projeto visa criar um sistema simples de controle de passagem para pedestres e
 ![Foto do Setup](images/bitdoglab.png)
 ![Pinagem](images/pinagem.png)
 ![Projeto em Funcionamento](images/sem_pedestres.png)
-[Assista ao vídeo explicativo do projeto](https://www.youtube.com/watch?v=0WUDzSgn6jc&ab_channel=RogerMelo)
+
+
+[Assista ao vídeo do projeto](https://www.youtube.com/watch?v=0WUDzSgn6jc&ab_channel=RogerMelo)
 
 
 ## 📈 Resultados Esperados ou Observados
